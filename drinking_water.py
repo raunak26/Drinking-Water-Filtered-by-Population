@@ -1,7 +1,5 @@
-# program.py
-# Raunak Anand and Siddharth Reddy Chandagari Venkata
-# ECS 32A Fall 2018
-# Assignment 5
+# drinking_water.py
+# Raunak Anand 
 # function that reads population file and builds dictionary
 
 def canBeInt(s):
